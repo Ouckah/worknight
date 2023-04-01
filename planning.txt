@@ -1,0 +1,42 @@
+IDEAS:
+
+- Set Required Classes based on inputted major
+- Start Date / End Data -> Unnessesary
+- Indicator for availibility
+
+SCOPE:
+
+- Only Registration
+
+HOME
+
+- Welcome text
+- Sudo Sign-in with Stevens
+- Confirm statistical information
+    - Major 
+    - Semester
+    - Load status (Full-time, Part-time)
+
+COMPLICATIONS (TC & AP)
+
+- Handle Transfer Credit / AP Credit
+- Prefered Classes / Electives
+
+REGISTRATION
+
+- Expected classes (on left)
+- EXPECTED vs. PERSONALIZED comparison
+- Course Selection / Customization (Personalized)
+    - Class Name
+    - Professor
+    - Days of the Week
+
+LIST OF THINGS
+- Sign in
+- Complications
+- Course Selection
+    - Professor Pop-up
+    - Criteria Pages
+- Section Selection
+- Summary
+- Finalization
