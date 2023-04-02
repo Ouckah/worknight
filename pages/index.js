@@ -17,7 +17,7 @@ export default function Home() {
       <div className="flex flex-row w-full h-screen bg-gray-100">
         <SideBar />
         <div className="MAIN flex flex-col justify-center items-center w-full h-full bg-gray-100 p-24">
-          <Image src={"/logo.png"} width={400} height={400}/>
+          <Image className="rotate-180" src={"/logo.png"} width={400} height={400}/>
           <FormControl>
             <FormLabel>Email Address</FormLabel>
             <Input type='email' placeholder="someone@gmail.com" />

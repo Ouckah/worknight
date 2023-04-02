@@ -14,9 +14,15 @@ const SideBar = () =>
                 <Link href="/course">
                     <EditIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
                 </Link>
-                <CalendarIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
-                <RepeatIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
-                <CheckCircleIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
+                <Link href="/selection">
+                    <CalendarIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
+                </Link>
+                <Link href="/summary">
+                    <RepeatIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
+                </Link>
+                <Link href="/final">
+                    <CheckCircleIcon className="hover:blur-sm duration-300 transition-all" boxSize={75} color="gray.600" />
+                </Link>
             </div>
         
         </>
