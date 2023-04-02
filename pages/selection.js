@@ -40,7 +40,7 @@ export default function Selection() {
                                         </Tr>
                                     </Thead>
                                     <Tbody>
-                                        <Tr>
+                                        <Tr className="bg-gray-200">
                                             <Td>Philippe Meunier</Td>
                                             <Td>M W F</Td>
                                             <Th>11:00 AM - 11:50 AM</Th>
@@ -90,7 +90,7 @@ export default function Selection() {
                                     </Tr>
                                 </Thead>
                                 <Tbody>
-                                    <Tr>
+                                    <Tr className="bg-gray-200">
                                         <Td>CS 385</Td>
                                         <Td>Algorithms</Td>
                                         <Td>Philippe Meunier</Td>

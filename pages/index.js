@@ -4,10 +4,9 @@ import { Button, Input } from '@chakra-ui/react'
 import {
   FormControl,
   FormLabel,
-  FormErrorMessage,
-  FormHelperText,
 } from '@chakra-ui/react'
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -23,13 +22,15 @@ export default function Home() {
             <Input type='email' placeholder="someone@gmail.com" />
             <FormLabel>Password</FormLabel>
             <Input type='password' placeholder="iLoVeLaUnChPaD2023"/>
-            <Button
-              mt={4}
-              colorScheme='teal'
-              type='submit'
-            >
-              Submit
-            </Button>
+            <Link href="/course">
+              <Button
+                mt={4}
+                colorScheme='teal'
+                type='submit'
+              >
+                Submit
+              </Button>
+            </Link>
           </FormControl>
         </div>
       </div>
