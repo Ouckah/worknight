@@ -1,6 +1,6 @@
 # Launchpad@Stevens 2023 Hackathon
 #### Authors: Aidan Ouckama & Milind Kathiari
-#### Date: April 1st, 2023 - April 2nd, 2023
+#### Date: April 1st - April 2nd
 
 ## Problem:
 What sucks about college?
